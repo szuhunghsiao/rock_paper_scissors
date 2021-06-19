@@ -1,3 +1,5 @@
-Tim 350
-Jane 200
-Alex 400
+Tim 250
+Jane 300
+Alex 100
+Nick 900
+Vivian 250
